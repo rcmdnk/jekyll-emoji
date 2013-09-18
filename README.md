@@ -9,3 +9,7 @@ A jekyll plug-in that provides a Liquid filter for emojifying text with [Gemoji]
 ## Usage: 
 - Apply the filter wherever needed e.g. `{{ content | emojify }}`
 - Add some emoji to your article! e.g. `Hello :wink:`
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rcmdnk/jekyll-emoji/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
